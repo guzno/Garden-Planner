@@ -1,4 +1,4 @@
 Garden-Planner
 ==============
 
-android app for garden planning
+Work in progress.
